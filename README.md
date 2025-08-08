@@ -1,1 +1,1 @@
-/kaggle/working/synthetic_covid_flu_dataset.csv
+path = /kaggle/working/synthetic_covid_flu_dataset.csv
